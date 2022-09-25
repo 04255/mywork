@@ -8,4 +8,5 @@
 ![图片A](https://github.com/04255/mywork/blob/main/A.png)
 ![图片6](https://github.com/04255/mywork/blob/main/6.png)
 
+以下是视频，点击播放（理论上）
 [![我的视频测试](https://github.com/04255/mywork/blob/main/1.jpg)](https://github.com/04255/mywork/blob/main/7.mp4)
