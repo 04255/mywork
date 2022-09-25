@@ -10,4 +10,5 @@
 ![图片6](https://github.com/04255/mywork/blob/main/6.png)
 
 以下是视频，点击播放（理论上）
+你也可以尝试下载它们再播放，由于文件大小的限制，这些功能并不支持。
 [![我的视频测试](https://github.com/04255/mywork/blob/main/1.jpg)](https://github.com/04255/mywork/blob/main/7.mp4)
